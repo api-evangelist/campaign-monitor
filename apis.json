@@ -1,0 +1,97 @@
+{
+    "name": "Campaign Monitor",
+    "description": "Drive results with email marketing. Campaign Monitor shares how to gain loyal customers with personalized email campaigns and automated customer journeys.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/383-campaign-monitor.jpg",
+    "tags": [
+        "api provider",
+        "crm",
+        "email marketing",
+        "have api",
+        "have swagger",
+        "target",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/campaign-monitor\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Campaign Monitor",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/383-campaign-monitor.jpg",
+            "humanURL": "https:\/\/www.campaignmonitor.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/campaign-monitor.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/campaign-monitor-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/campaign-monitor-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.createsend.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.campaignmonitor.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/campaignmonitor.com\/feeds\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/campaign-monitor"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/campaign-monitor"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.campaignmonitor.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@campaignmonitor.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/campaignmonitor"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/383-2019-09-04-06-41-17.json"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/campaignmonitor"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/www.campaignmonitor.com\/api\/webhooks\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.campaignmonitor.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.campaignmonitor.com"
+        }
+    ]
+}
